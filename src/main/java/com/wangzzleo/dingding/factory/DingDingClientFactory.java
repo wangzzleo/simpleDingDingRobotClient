@@ -1,4 +1,4 @@
-package com.wangzzleo.dingding.dingding;
+package com.wangzzleo.dingding.factory;
 
 
 public class DingDingClientFactory {
